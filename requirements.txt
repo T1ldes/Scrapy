@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+scrapybara
+playwright
+requests
+pillow
+asyncio
